@@ -4,7 +4,7 @@
 
 Name:		hyphen
 Summary:	A text hyphenation library
-Version:	2.8.5
+Version:	2.8.6
 Release:	1
 Group:		System/Libraries 
 License:	LGPLv2+
