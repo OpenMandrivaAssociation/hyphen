@@ -5,7 +5,7 @@
 Name:		hyphen
 Summary:	A text hyphenation library
 Version:	2.8.6
-Release:	1
+Release:	2
 Group:		System/Libraries 
 License:	LGPLv2+
 URL:		http://hunspell.sf.net
@@ -21,6 +21,7 @@ Hyphen is a library for high quality hyphenation and justification.
 Summary: Files for developing with hyphen
 Group:   System/Libraries 
 Suggests: %{name}-en = %{version}-%{release}
+Provides: hyphen
 
 %description -n %{libname}
 Hyphen is a library for high quality hyphenation and justification.
