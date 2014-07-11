@@ -5,7 +5,7 @@
 Summary:	A text hyphenation library
 Name:		hyphen
 Version:	2.8.6
-Release:	7
+Release:	8
 Group:		System/Libraries 
 License:	LGPLv2+
 Url:		http://hunspell.sf.net
