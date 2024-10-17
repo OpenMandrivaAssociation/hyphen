@@ -8,7 +8,7 @@ Version:	2.8.8
 Release:	14
 Group:		System/Libraries 
 License:	LGPLv2+
-Url:		http://hunspell.sf.net
+Url:		https://hunspell.sf.net
 Source0:	http://downloads.sourceforge.net/hunspell/%{name}-%{version}.tar.gz
 
 BuildRequires:	perl
