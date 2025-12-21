@@ -11,6 +11,11 @@ License:	LGPLv2+
 Url:		https://hunspell.sf.net
 Source0:	http://downloads.sourceforge.net/hunspell/%{name}-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	perl
 BuildRequires:	libtool
 
